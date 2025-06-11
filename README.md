@@ -1,5 +1,5 @@
 ## Hi. 👋
-# 👋 Hello! I'm Alaa Almouiz F. Moh.
+I'm Alaa Almouiz F. Moh.
 
 🎓 Final Year Student in Robotics, Autonomous and Interactive Systems (RAIS) at Heriot-Watt University, Dubai.  
 📚 Final Year Student in BSc. Electrical and Electronic Engineering at the University of Khartoum, Sudan.  
