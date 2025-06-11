@@ -1,14 +1,12 @@
 ## Hi. 👋
 # 👋 Hello! I'm Alaa Almouiz F. Moh.
 
-🎓 Final Year Student in Robotics, Autonomous and Interactive Systems (RAIS) at Heriot-Watt University Dubai  
-📚 BSc. Electrical and Electronic Engineering – University of Khartoum  
+🎓 Final Year Student in Robotics, Autonomous and Interactive Systems (RAIS) at Heriot-Watt University, Dubai.  
+📚 Final Year Student in BSc. Electrical and Electronic Engineering at the University of Khartoum, Sudan.  
 🌍 Equitech Futures '23 Graduate | IEEE Enthusiast | AI & Machine Learning Explorer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-allaalmouiz-blue?logo=linkedin)](https://www.linkedin.com/in/allaalmouiz/)
 [![Gmail](https://img.shields.io/badge/Email-allaalmouiz@hotmail.com-red?logo=gmail)](mailto:allaalmouiz@hotmail.com)
-[![Visitors](https://komarev.com/ghpvc/?username=allaalmouiz&style=flat&color=green)](https://github.com/allaalmouiz)
-
 ---
 
 ## 💡 About Me
@@ -25,23 +23,10 @@ I'm passionate about creating a better future through robotics, AI, and meaningf
 <summary>📌 Key Achievements</summary>
 
 - 🥇 **Top 100 Achievers in Sudan Secondary School Certificate**
-- 🧠 **Kevin Xu Prize** at Equitech Futures Scholars Program
-- 🏆 **Best Academic Society Award**, E4L Heriot-Watt University
+- 🧠 **Kevin Xu Prize** at Equitech Futures Scholars Program.
+- 🏆 **Best Academic Society Award**, E4L Heriot-Watt University.
 - 📊 Capstone: *Cross-Country Analysis of Drug Use Disorder vs Social Media Usage*
 - 📚 Graduation Project: *The Hidden Influence of Memorization in LLM Benchmarks*
-
-</details>
-
----
-
-<details>
-<summary>🧑‍🔬 Volunteering & Community</summary>
-
-- 🎤 **Media Team Coordinator** – IndabaXSudan 2022
-- 🌍 **General Committee** – IndabaXSudan 2023
-- 🧠 **Public Relations & Ambassador** – IEEE & IEEEXtreme 15.0
-- ⚙️ **Tech Team Member** – EEESE'22 Exhibition
-- 📢 **Speaker & Organizer** – ICCCEEE20, SDCPC, Sitex
 
 </details>
 
@@ -60,7 +45,7 @@ I'm passionate about creating a better future through robotics, AI, and meaningf
 Languages     = ["Python", "C++", "MATLAB", "Arduino"]
 Frameworks    = ["ROS", "TensorFlow", "PyTorch", "OpenCV"]
 Tools         = ["Jupyter", "Git", "VS Code", "ESP32", "Linux"]
-
+/```
 
 <!--
 **allaalmouiz/allaalmouiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
