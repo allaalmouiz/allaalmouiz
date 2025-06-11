@@ -30,7 +30,7 @@ I'm passionate about creating a better future through robotics, AI, and meaningf
 ## 🌐 Languages
 - 🇸🇩 Arabic – Native
 - 🇬🇧 English – Fluent (IELTS and ESOL certified)
-- 🇩🇪 German – A1 (Elementary)
+- 🇩🇪 German – Elementary
 
 ---
 
