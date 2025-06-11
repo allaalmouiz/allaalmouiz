@@ -19,14 +19,12 @@ I'm passionate about creating a better future through robotics, AI, and meaningf
 
 ---
 
-<details>
 - 🥇 **Front runner at Sudanese Secondary School Certificate**
 - 🥇 **Top 100 Achievers in Sudan Secondary School Certificate**
 - 🧠 **Kevin Xu Prize** at Equitech Futures Scholars Program.
 - 🏆 **Best Academic Society Award**, E4L Heriot-Watt University.
 - 📚 Graduation Project: *The Hidden Influence of Memorization in LLM Benchmarks*
-</details>
-
+  
 ---
 
 ## 🌐 Languages
