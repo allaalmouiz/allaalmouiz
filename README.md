@@ -20,14 +20,11 @@ I'm passionate about creating a better future through robotics, AI, and meaningf
 ---
 
 <details>
-<summary>📌 Key Achievements</summary>
-
+- 🥇 **Front runner at Sudanese Secondary School Certificate**
 - 🥇 **Top 100 Achievers in Sudan Secondary School Certificate**
 - 🧠 **Kevin Xu Prize** at Equitech Futures Scholars Program.
 - 🏆 **Best Academic Society Award**, E4L Heriot-Watt University.
-- 📊 Capstone: *Cross-Country Analysis of Drug Use Disorder vs Social Media Usage*
 - 📚 Graduation Project: *The Hidden Influence of Memorization in LLM Benchmarks*
-
 </details>
 
 ---
@@ -39,13 +36,6 @@ I'm passionate about creating a better future through robotics, AI, and meaningf
 
 ---
 
-## 🛠️ Tech Stack
-
-```python
-Languages     = ["Python", "C++", "MATLAB", "Arduino"]
-Frameworks    = ["ROS", "TensorFlow", "PyTorch", "OpenCV"]
-Tools         = ["Jupyter", "Git", "VS Code", "ESP32", "Linux"]
-/```
 
 <!--
 **allaalmouiz/allaalmouiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
