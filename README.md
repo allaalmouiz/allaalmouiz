@@ -2,8 +2,7 @@
 
 <br/>
 
-# Alaa Almouiz Farog Mohammed
-*It is our choices that show what we truly are, far more than our abilities*
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel&size=24&duration=1&pause=99999999&color=D4A843&center=true&vCenter=true&width=580&lines=Alaa+Almouiz+Farog+Mohammed" alt="Alaa Almouiz Farog Mohammed" />*It is our choices that show what we truly are, far more than our abilities*
 
 [<img src="https://readme-typing-svg.demolab.com?font=Cinzel&size=13&duration=4500&pause=1000&color=D4A843&center=true&vCenter=true&width=580&lines=AI%2FML+Engineer+%C2%B7+Researcher+%C2%B7+Gryffindor;%22It+is+our+choices+that+show+what+we+truly+are.%22" alt="Typing SVG" />
 ](https://readme-typing-svg.demolab.com?font=Cinzel&size=13&duration=4500&pause=1500&color=D4A843&center=true&vCenter=true&width=580&speed=30&lines=AI%2FML+Engineer+%C2%B7+Researcher+%C2%B7+Gryffindor;%22It+is+our+choices+that+show+what+we+truly+are.%22)
