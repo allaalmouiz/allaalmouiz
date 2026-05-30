@@ -10,9 +10,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-allaalmouiz-8B0000?style=flat-square&logo=linkedin&logoColor=D4A843)](https://linkedin.com/in/allaalmouiz)
 [![Email](https://img.shields.io/badge/Email-8B0000?style=flat-square&logo=gmail&logoColor=D4A843)](mailto:allaalmouiz@hotmail.com)
-![UAE](https://img.shields.io/badge/UAE-8B0000?style=flat-square)
-![NeurIPS](https://img.shields.io/badge/WiML%20@%20NeurIPS%202025-8B0000?style=flat-square)
-
 </div>
 
 
