@@ -3,6 +3,7 @@
 <br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Cinzel&size=13&duration=3500&pause=1000&color=D4A843&center=true&vCenter=true&width=580&lines=AI%2FML+Engineer+%C2%B7+Researcher+%C2%B7+Gryffindor;%22It+is+our+choices+that+show+what+we+truly+are.%22" alt="Typing SVG" />
+
 *It is our choices that show what we truly are, far more than our abilities*
 
 # Alaa Almouiz Farog Mohammed
