@@ -16,14 +16,18 @@
 </div>
 
 
----
 
 ```python
-profile = {
-    "focus"    : ["LLMs", "Fine-tuning (LoRA/QLoRA)", "RAG", "NLP", "Benchmark Design"],
-    "stack"    : ["PyTorch", "TensorFlow", "Transformers", "YOLO", "Scikit-learn"],
-    "house"    : "Gryffindor",
-    "patronus" : "A well-tuned transformer model",
+spellbook = {
+    "languages":        ["Python", "Arabic", "English (C1)", "German (A1)"],
+    "ml_stack":         ["PyTorch", "TensorFlow", "Keras", "Scikit-learn",
+                         "Transformers", "HuggingFace"],
+    "specializations":  ["LLMs", "Fine-tuning (LoRA/QLoRA)", "RAG",
+                         "NLP", "Computer Vision (YOLO)", "Benchmark Design"],
+    "tools":            ["Git", "Jupyter", "Colab", "RoboFlow"],
+    "robotics":         ["ROS", "PID Control", "Arduino", "ESP-32", "Kinematics"],
+    "house":            "Gryffindor",
+    "patronus":         "A well-tuned transformer model",
 }
 ```
 *After all this time?*
