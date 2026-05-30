@@ -13,14 +13,20 @@
 
 
 ```python
-spellbook = {
+🪄 spellbook = {
     "languages":       ["Python", "Arabic", "English", "German"],
     "ml_stack":        ["PyTorch", "TensorFlow", "Keras", "Scikit-learn",
                         "Transformers", "HuggingFace"],
-    "specializations": ["LLMs", "Fine-tuning (LoRA/QLoRA)", "RAG",
-                        "NLP", "Computer Vision (YOLO)", "Benchmark Design"],
-    "tools":           ["Git", "Jupyter", "Colab", "RoboFlow"],
-    "robotics":        ["ROS", "PID Control", "Arduino", "ESP-32", "Kinematics"],
+    "specializations": ["LLMs", "Fine-tuning (LoRA/QLoHA)", "RAG", "NLP",
+                        "Computer Vision (YOLO)", "Benchmark Design",
+                        "Model Evaluation", "Data Annotation", "EDA"],
+    "tools":           ["Git", "Jupyter", "Colab", "RoboFlow",
+                        "NumPy", "Pandas", "Matplotlib", "Seaborn"],
+    "robotics":        ["ROS", "PID Control", "Arduino", "ESP-32",
+                        "Kinematics", "3D Printing"],
+    "research_skills": ["Experimental Design", "Literature Review",
+                        "Scientific Writing", "Dataset Curation"],
+    "soft_skills":     ["Public Speaking", "Mentorship", "Cross-functional Leadership"],
     "open_to":         ["Research roles", "AI/ML Engineering", "Collaboration"],
     "house":           "Gryffindor",
     "patronus":        "A well-tuned transformer model",
