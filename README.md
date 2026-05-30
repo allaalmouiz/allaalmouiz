@@ -14,15 +14,16 @@
 
 ```python
 spellbook = {
-    "languages":        ["Python", "Arabic", "English", "German"],
-    "ml_stack":         ["PyTorch", "TensorFlow", "Keras", "Scikit-learn",
-                         "Transformers", "HuggingFace"],
-    "specializations":  ["LLMs", "Fine-tuning (LoRA/QLoRA)", "RAG",
-                         "NLP", "Computer Vision (YOLO)", "Benchmark Design"],
-    "tools":            ["Git", "Jupyter", "Colab", "RoboFlow"],
-    "robotics":         ["ROS", "PID Control", "Arduino", "ESP-32", "Kinematics"],
-    "house":            "Gryffindor",
-    "patronus":         "A well-tuned transformer model",
+    "languages":       ["Python", "Arabic", "English", "German"],
+    "ml_stack":        ["PyTorch", "TensorFlow", "Keras", "Scikit-learn",
+                        "Transformers", "HuggingFace"],
+    "specializations": ["LLMs", "Fine-tuning (LoRA/QLoRA)", "RAG",
+                        "NLP", "Computer Vision (YOLO)", "Benchmark Design"],
+    "tools":           ["Git", "Jupyter", "Colab", "RoboFlow"],
+    "robotics":        ["ROS", "PID Control", "Arduino", "ESP-32", "Kinematics"],
+    "open_to":         ["Research roles", "AI/ML Engineering", "Collaboration"],
+    "house":           "Gryffindor",
+    "patronus":        "A well-tuned transformer model",
 }
 ```
 *After all this time?*
