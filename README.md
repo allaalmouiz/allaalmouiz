@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Cinzel&size=24&duration=1&pause=99999999&color=D4A843&center=true&vCenter=true&width=680&lines=Alaa+Almouiz+Farog+Mohammed" alt="Alaa Almouiz Farog Mohammed" />
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel&size=24&duration=1&pause=99999999&color=8B6914&center=true&vCenter=true&width=680&lines=Alaa+Almouiz+Farog+Mohammed" alt="Alaa Almouiz Farog Mohammed" />
 
 <img src="https://readme-typing-svg.demolab.com?font=IM+Fell+English&size=14&duration=1&pause=99999999&color=8B6914&center=true&vCenter=true&width=680&lines=It+is+our+choices+that+show+what+we+truly+are%2C+far+more+than+our+abilities." alt="quote" />
 
